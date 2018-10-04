@@ -15,11 +15,11 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saknarak/mqtt-server-minimal.git"
+    "url": "git+https://github.com/xenexio/mqtt-server.git"
   },
   "bugs": {
-    "url": "https://github.com/saknarak/mqtt-server-minimal/issues"
+    "url": "https://github.com/xenexio/mqtt-server/issues"
   },
-  "homepage": "https://github.com/saknarak/mqtt-server-minimal#readme",
+  "homepage": "https://github.com/xenexio/mqtt-server#readme",
   "description": ""
 }
